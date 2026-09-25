@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 36" width="220" height="36" fill="none">
+  <rect width="220" height="36" rx="8" fill="#1c1c21" fill-opacity="0.8" stroke="#282732" stroke-width="1"/>
+  <circle cx="18" cy="18" r="8" fill="#38bdf8" fill-opacity="0.2"/>
+  <path d="M15 15l-3 3 3 3M21 15l3 3-3 3" stroke="#38bdf8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="16" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="0.8">FULL STACK DEV</text>
+  <text x="34" y="27" fill="#839cb5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.5">React • Node • Express • Mongo</text>
+</svg>

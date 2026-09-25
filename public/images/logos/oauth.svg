@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40">
+  <g transform="translate(10, 8)">
+    <circle cx="12" cy="12" r="10" fill="none" stroke="#EB5424" stroke-width="2.2"/>
+    <path d="M12.6 6.2c.6 0 1.2.3 1.5.9l2.8 7.8a1.6 1.6 0 0 1-1 2.1 1.6 1.6 0 0 1-2-.8l-.5-1h-2.7l-.4.9a1.6 1.6 0 0 1-2 1l-.2 0a1.6 1.6 0 0 1-1-1.9l2.8-7.9a1.6 1.6 0 0 1 1.4-1.1z" fill="#EB5424"/>
+  </g>
+  <text x="42" y="25" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" letter-spacing="0.3">OAuth</text>
+</svg>
